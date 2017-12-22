@@ -1,0 +1,215 @@
+"Europa","Andorra",42.5,1.5
+"Asia","United Arab Emirates",24,54
+"Asia","Afghanistan",33,65
+"America","Antigua_and_Barbuda",17.05,-61.8
+"Europa","Albania",41,20
+"Asia","Armenia",40,45
+"America","Netherlands Antilles",12.25,-68.75
+"Africa","Angola",-12.5,18.5
+"America","Argentina",-34,-64
+"Europa","Austria",47.33,13.33
+"Oceania","Australia",-27,133
+"America","Aruba",12.5,-69.97
+"Asia","Azerbaijan",40.5,47.5
+"Europa","Bosnia and Herzegovina",44,18
+"America","Barbados",13.17,-59.53
+"Asia","Bangladesh",24,90
+"Europa","Belgium",50.83,4
+"Africa","Burkina_Faso",13,-2
+"Europa","Bulgaria",43,25
+"Asia","Bahrain",26,50.55
+"Africa","Benin",9.5,2.25
+"America","Bermuda",32.33,-64.75
+"Asia","Brunei",4.5,114.67
+"America","Bolivia",-17,-65
+"America","Brazil",-10,-55
+"America","Bahamas",24.25,-76
+"Asia","Bhutan",27.5,90.5
+"Africa","Botswana",-22,24
+"Europa","Belarus",53,28
+"America","Belize",17.25,-88.75
+"America","Canada",60,-95
+"Africa","Central_African_Republic",7,21
+"Africa","The_Democratic_Republic_of_Congo",0,25
+"Africa","Congo",-1,15
+"Europa","Switzerland",47,8
+"Africa","Cote_d'Ivoire",8,-5
+"Oceania","Cook Islands",-21.23,-159.77
+"America","Chile",-30,-71
+"Africa","Cameroon",6,12
+"Asia","China",35,105
+"America","Colombia",4,-72
+"America","Costa_Rica",10,-84
+"America","Cuba",21.5,-80
+"Africa","Cape_Verde",16,-24
+"Asia","Christmas_Island",-10.5,105.67
+"Europa","Cyprus",35,33
+"Europa","Czech Republic",49.75,15.5
+"Europa","Germany",51,9
+"Europa","Denmark",56,10
+"America","Dominica",15.42,-61.33
+"America","Dominican_Republic",19,-70.67
+"Africa","Algeria",28,3
+"America","Ecuador",-2,-77.5
+"Europa","Estonia",59,26
+"Africa","Egypt",27,30
+"Africa","Western Sahara",24.5,-13
+"Africa","Eritrea",15,39
+"Europa","Spain",40,-4
+"Africa","Ethiopia",8,38
+"Europa","Europe",47,8
+"Europa","Finland",64,26
+"Europa","Fiji",-18,175
+"America","Falkland Islands",-51.75,-59
+"Oceania","Micronesia",6.92,158.25
+"Europa","Faroe Islands",62,-7
+"Europa","France",46,2
+"Africa","Gabon",-1,11.75
+"Europa","United Kingdom",54,-2
+"America","Grenada",12.12,-61.67
+"Asia","Georgia",42,43.5
+"Africa","Ghana",8,-2
+"Europa","Gibraltar",36.18,-5.37
+"America","Greenland",72,-40
+"Africa","Gambia",13.47,-16.57
+"Africa","Guinea",11,-10
+"Africa","Equatorial_Guinea",2,10
+"Europa","Greece",39,22
+"Asia","South Georgia",-54.5,-37
+"America","Guatemala",15.5,-90.25
+"Africa","Guinea_Bissau",12,-15
+"America","Guyana",5,-59
+"Asia","Hong_Kong",22.25,114.17
+"America","Honduras",15,-86.5
+"Europa","Croatia",45.17,15.5
+"America","Haiti",19,-72.42
+"Europa","Hungary",47,20
+"Asia","Indonesia",-5,120
+"Europa","Ireland",53,-8
+"Asia","Israel",31.5,34.75
+"Asia","India",20,77
+"Asia","Iraq",33,44
+"Asia","Iran",32,53
+"Europa","Iceland",65,-18
+"Europa","Italy",42.83,12.83
+"America","Jamaica",18.25,-77.5
+"Asia","Jordan",31,36
+"Asia","Japan",36,138
+"Africa","Kenya",1,38
+"Asia","Kyrgyzstan",41,75
+"Asia","Cambodia",13,105
+"Oceania","Kiribati",1.42,173
+"Africa","Comoros",-12.17,44.25
+"America","Saint_Kitts_and_Nevis",17.33,-62.75
+"Asia","North_Korea",40,127
+"Asia","South_Korea",37,127.5
+"Asia","Kuwait",29.34,47.66
+"America","Cayman_Islands",19.5,-80.5
+"Asia","Kazakhstan",48,68
+"Asia","Lebanon",33.83,35.83
+"America","Saint Lucia",13.88,-61.13
+"Europa","Liechtenstein",47.17,9.53
+"Asia","Sri Lanka",7,81
+"Africa","Liberia",6.5,-9.5
+"Africa","Lesotho",-29.5,28.5
+"Europa","Lithuania",56,24
+"Europa","Luxembourg",49.75,6.17
+"Europa","Latvia",57,25
+"Africa","Libyan_Arab_Jamahiriya",25,17
+"Africa","Morocco",32,-5
+"Europa","Monaco",43.73,7.4
+"Europa","Moldova",47,29
+"Europa","Montenegro",42,19
+"Africa","Madagascar",-20,47
+"Oceania","Marshall Islands",9,168
+"Europa","Macedonia",41.83,22
+"Africa","Mali",17,-4
+"Asia","Myanmar",22,98
+"Asia","Mongolia",46,105
+"Asia","Macao",22.17,113.55
+"America","Martinique",14.67,-61
+"Africa","Mauritania",20,-12
+"America","Montserrat",16.75,-62.2
+"Europa","Malta",35.83,14.58
+"Africa","Mauritius",-20.28,57.55
+"Asia","Maldives",3.25,73
+"Africa","Malawi",-13.5,34
+"America","Mexico",23,-102
+"Asia","Malaysia",2.5,112.5
+"Africa","Mozambique",-18.25,35
+"Africa","Namibia",-22,17
+"Africa","Niger",16,8
+"Oceania","Norfolk Island",-29.03,167.95
+"Africa","Nigeria",10,8
+"America","Nicaragua",13,-85
+"Europa","Netherlands",52.5,5.75
+"Europa","Norway",62,10
+"Asia","Nepal",28,84
+"Oceania","Nauru",-0.53,166.92
+"Oceania","Niue",-19.03,-169.87
+"Oceania","New Zealand",-41,174
+"Asia","Oman",21,57
+"America","Panama",9,-80
+"America","Peru",-10,-76
+"America","French Polynesia",-15,-140
+"Africa","Papua New Guinea",-6,147
+"Asia","Philippines",13,122
+"Asia","Pakistan",30,70
+"Europa","Poland",52,20
+"America","Saint_Pierre",46.83,-56.33
+"America","Puerto_Rico",18.25,-66.5
+"Europa","Portugal",39.5,-8
+"America","Paraguay",-23,-58
+"Asia","Qatar",25.5,51.25
+"Europa","Romania",46,25
+"Europa","Serbia",44,21
+"Asia","Russia",60,100
+"Africa","Rwanda",-2,30
+"Asia","Saudi_Arabia",25,45
+"Ocenia","Solomon Islands",-8,159
+"Africa","Seychelles",-4.58,55.67
+"Africa","Sudan",15,30
+"Europa","Sweden",62,15
+"Asia","Singapore",1.37,103.8
+"Europa","Slovenia",46,15
+"Europa","Slovakia",48.67,19.5
+"Africa","Sierra_Leone",8.5,-11.5
+"Europa","San Marino",43.77,12.42
+"Africa","Senegal",14,-14
+"Africa","Somalia",10,49
+"America","Suriname",4,-56
+"Africa","Sao_Tome and Principe",1,7
+"America","El_Salvador",13.83,-88.92
+"Asia","Syria",35,38
+"Africa","Swaziland",-26.5,31.5
+"America","Turks_and_Caicos_Islands",21.75,-71.58
+"Africa","Chad",15,19
+"Africa","Togo",8,1.17
+"Asia","Thailand",15,100
+"Asia","Tajikistan",39,71
+"Asia","Turkmenistan",40,60
+"Africa","Tunisia",34,9
+"Oceania","Tonga",-20,-175
+"Asia","Turkey",39,35
+"America","Trinidad and Tobago",11,-61
+"Oceania","Tuvalu",-8,178
+"Asia","Taiwan",23.5,121
+"Africa","Tanzania",-6,35
+"Europa","Ukraine",49,32
+"Africa","Uganda",1,32
+"America","United_States_of_America",38,-97
+"America","Uruguay",-33,-56
+"Asia","Uzbekistan",41,64
+"Europa","Vatican",41.9,12.45
+"America","St._Vicent_and_Grenadines",13.25,-61.2
+"America","Venezuela",8,-66
+"America","British_Virgin_Islands",18.5,-64.5
+"America","US_Virgin_Islands",18.33,-64.83
+"Asia","Vietnam",16,106
+"Oceania","Vanuatu",-16,167
+"Oceania","Wallis and Futuna",-13.3,-176.2
+"Oceania","Samoa",-13.58,-172.33
+"Asia","Yemen",15,48
+"Africa","South_Africa",-29,24
+"Africa","Zambia",-15,30
+"Africa","Zimbabwe",-20,30
